@@ -161,5 +161,5 @@ And I dedicate this new 2011 version of the language to Ms. Alla Vishneva, **who
 
 July, 2011
 
-&lt;p style="font-weight=30;"&gt;woaini&lt;/p&gt;
+&lt;p style="font-size=30"&gt;woaini&lt;/p&gt;
 
