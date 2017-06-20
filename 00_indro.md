@@ -84,7 +84,7 @@ The above paragraphs illustrate how Ithkuil is able to capture and systematicall
 
 > \(a\) **男孩滚下坡。**
 >
-> \(b\) **可能她刚开始戒烟。** 
+> \(b\) **可能她刚开始戒烟。**
 >
 > \(c\) **Joe昨天没中彩票。 **
 >
@@ -104,7 +104,7 @@ Similar examples can be given to show the extent to which natural languages such
 
 ## 与其他人造语言比较
 
-熟悉[人工语言构造](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E8%AA%9E%E8%A8%80)史的读者们也许会认为这一努力已经过时或没必要，因为已经存在比如像 James Cooke Brown 发明的著名的 Loglan（或其流行洐生物 Lojban）这样的逻辑语言了。这正好可以用来说明Ithkuil跟这些前人的尝试的区别在哪里。Loglan发表于1950年代，作为一门用来说和写的语言，是基于符号逻辑（正式名称为“一阶谓词演算”），数学家们和逻辑学家们设计的一套符号处理算法系统。结果，人们也许认为这样的一种语言是实现合逻辑、无歧义的语言交流的最有力的工具。然而，Loglan及其洐生物只不过是用于符号处理，即语言的形态和句法层次上的一套复杂精密的工具而已；对语义领域进行重组並不在这些语言的作用范围内。换言之，符号逻辑只处理输入到系统中的参数，它们並不分析这些参数在意义方面的来源，也不具备去对人类心智的认知或语义领域的结构就意义本身是怎样被分配到参数而言去作分析並形式化的能力（确实，Lojban构建词根是通过对六门最多人说的自然语言中的高频字根进行统计学「取样」，这一做法无形中把上述所有词汇语义上的低效率延续至其词汇）。由于不考虑这些语言成份的问题，Loglan及类似的努力都未能解决语言在词汇语义方面固有的不一致及低效率。
+熟悉[人工语言构造](https://zh.wikipedia.org/wiki/人工語言)史的读者们也许会认为这一努力已经过时或没必要，因为已经存在比如像 James Cooke Brown 发明的著名的 Loglan（或其流行洐生物 Lojban）这样的逻辑语言了。这正好可以用来说明Ithkuil跟这些前人的尝试的区别在哪里。Loglan发表于1950年代，作为一门用来说和写的语言，是基于符号逻辑（正式名称为“一阶谓词演算”），数学家们和逻辑学家们设计的一套符号处理算法系统。结果，人们也许认为这样的一种语言是实现合逻辑、无歧义的语言交流的最有力的工具。然而，Loglan及其洐生物只不过是用于符号处理，即语言的形态和句法层次上的一套复杂精密的工具而已；对语义领域进行重组並不在这些语言的作用范围内。换言之，符号逻辑只处理输入到系统中的参数，它们並不分析这些参数在意义方面的来源，也不具备去对人类心智的认知或语义领域的结构就意义本身是怎样被分配到参数而言去作分析並形式化的能力（确实，Lojban构建词根是通过对六门最多人说的自然语言中的高频字根进行统计学「取样」，这一做法无形中把上述所有词汇语义上的低效率延续至其词汇）。由于不考虑这些语言成份的问题，Loglan及类似的努力都未能解决语言在词汇语义方面固有的不一致及低效率。
 
 其他读者也许认为像 Esperanto，Interlingua，Ido 等「国际辅助语」是逻辑而有效率的语言代表。然而这些语言只是在现有语言（往往是印欧语系）的基础上简化、规律化的融合物，被设计用于容易学习而已。它们虽然解决了语言在形态语音及形态句法方面的很多明显的不规则、不一致、冗长，但对解决其他语言成份，尤其是词汇语义里的问题所做甚少。例如，虽然Esperanto难能可贵地採用了系统的规则来派生词汇，像_**knabo**_「男孩」 -- _**knabino**_「女孩」，但它大体上保留了印欧语言的基本的词汇语义范畴体系，而没有寻找机会把这种词汇派生体系扩展到更多的多维阵列。
 
@@ -140,7 +140,7 @@ The above components of language in turn operate in an interrelated fashion, com
 
 * **Morpho-phonology**: The interrelationship between phonology and morphology, i.e., the manner in which the sounds of the language are manipulated into structures that can contain meaning. For example it is morpho-phonology that explains why different word-endings signify concepts such as masculine or feminine in Spanish.
 
-* **Morpho-syntax**: The interrelationship between morphology and syntax, i.e., how the grammatical structures within words impact the overall structure of a sentence, as illustrated by the relationship between the sentences _**It is undeliverable** _versus _**It cannot be delivered**_
+* **Morpho-syntax**: The interrelationship between morphology and syntax, i.e., how the grammatical structures within words impact the overall structure of a sentence, as illustrated by the relationship between the sentences _**It is undeliverable** \_versus _**It cannot be delivered**\_
 
 * **Lexico-Morphology**: The interrelationship between morphology and the lexicon, i.e., the structure of word-roots and how they interact with other morphological categories, as illustrated by the concept of “irregular” verbs, e.g., ‘go’ + PAST = ‘went.’
 
@@ -157,11 +157,7 @@ My work on Ithkuil is dedicated to my brother Paul, in fond remembrance of _**Kc
 
 And I dedicate this new 2011 version of the language to Ms. Alla Vishneva, **who teaches students about Ithkuil in Kyiv, Ukraine, and to whom my work is as important as it is to me. **_**Дякую, Алла. Ти маєш рацію!**_
 
-                                                                              —_John Quijada_  
-                                                                             July, 2011
+—_John Quijada_
 
-  
-
-
-
+July, 2011
 
