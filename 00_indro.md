@@ -124,17 +124,17 @@ Ithkuil的最初版本在2004年初发表在互联网。第二个版本或替用
 
 This website provides a systematic presentation of the grammar of the language. In addition to a description of the various components of the grammar, the reader will find example phrases or sentences illustrating those components. The navigational links at the top and bottom of this page lead to chapters on the major grammatical components of the language and should be preferably read in sequence, as each chapter is cumulative and assumes knowledge of the preceding. While this grammar assumes only a basic knowledge of linguistic concepts, it will be helpful to briefly familiarize the reader with the hierarchical/schematic structure of human language in general, as the organization of this grammar is somewhat based around this structure. The analysis of human language can be organized into the following hierarchical schema of primary concepts:
 
-> * **Phonology**: The manner in which vocally articulated sound is structured for use within a language; this is the basic realm of the acoustic sounds produced by the lungs, vocal cords, tongue, and lips, i.e., consonants, vowels, volume, pitch, tone, stress, etc.
->
-> * **Morphology**: The grammatical rules, structures, categories and functions which can be manipulated to form words and the component phrases of sentences; this is the realm of prefixes, suffixes, word-roots, and conceptual categories like tense, singular vs. plural, moods, active vs. passive voice, etc.
->
-> * **Syntax**: The rules governing how words and phrases can be combined into grammatically acceptable sentences.
->
-> * **Semantics**: The realm of meaning; what the words, phrases, and syntactical structures of the language represent in terms of meaning.
->
-> * **Lexicon**: The list of word-roots within a language, i.e., the vocabulary of the language.
->
-> * **Pragmatics and Discourse Rules**: The analysis of how language is actually used in real-world situations as determined by cultural and context-driven rules; the realm of style, rhetoric, formal versus informal language, slang, etc., outside the realm of grammar. Because this is a formal grammar for a hypothetical language \(i.e., it has no “real world” linguistic context\), pragmatics and discourse rules will not be covered.
+* **Phonology**: The manner in which vocally articulated sound is structured for use within a language; this is the basic realm of the acoustic sounds produced by the lungs, vocal cords, tongue, and lips, i.e., consonants, vowels, volume, pitch, tone, stress, etc.
+
+* **Morphology**: The grammatical rules, structures, categories and functions which can be manipulated to form words and the component phrases of sentences; this is the realm of prefixes, suffixes, word-roots, and conceptual categories like tense, singular vs. plural, moods, active vs. passive voice, etc.
+
+* **Syntax**: The rules governing how words and phrases can be combined into grammatically acceptable sentences.
+
+* **Semantics**: The realm of meaning; what the words, phrases, and syntactical structures of the language represent in terms of meaning.
+
+* **Lexicon**: The list of word-roots within a language, i.e., the vocabulary of the language.
+
+* **Pragmatics and Discourse Rules**: The analysis of how language is actually used in real-world situations as determined by cultural and context-driven rules; the realm of style, rhetoric, formal versus informal language, slang, etc., outside the realm of grammar. Because this is a formal grammar for a hypothetical language \(i.e., it has no “real world” linguistic context\), pragmatics and discourse rules will not be covered.
 
 The above components of language in turn operate in an interrelated fashion, combining to designate several additional or secondary levels of analysis. For example:
 
@@ -160,6 +160,4 @@ And I dedicate this new 2011 version of the language to Ms. Alla Vishneva, **who
 —_John Quijada_
 
 July, 2011
-
-&lt;p style="font-size=30"&gt;woaini&lt;/p&gt;
 
