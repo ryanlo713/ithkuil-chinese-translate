@@ -7,5 +7,5 @@
 
 3. 这两个目标貌似要求设计出的语言必须很冗赘，既然它的每个单词（或整个句子）必须传达比在自然语言中更多的形态语义内容。话虽如此，既实现这两个目标，同时也实现相对简明的形态语音词形，即把较多的意义和信息塞进相对较少的音节里，理论上是可能的。
 
-Ithkuil represents the culmination of my attempts over a period of thirty years or so to achieve the above goals. It should be noted that Ithkuil is NOT intended to function like a “natural” human language. Ithkuil exists as an exercise in exploring how human languages _**could **_function, not how human languages _**do **_function.
+Ithkuil represents the culmination of my attempts over a period of thirty years or so to achieve the above goals. It should be noted that Ithkuil is NOT intended to function like a “natural” human language. Ithkuil exists as an exercise in exploring how human languages _**could **\_function, not how human languages _**do **function.
 
