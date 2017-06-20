@@ -7,7 +7,7 @@
 
 3. 这两个目标貌似要求设计出的语言必须很冗赘，既然它的每个单词（或整个句子）必须传达比在自然语言中更多的形态语义内容。话虽如此，既实现这两个目标，同时也实现相对简明的形态语音词形，即把较多的意义和信息塞进相对较少的音节里，理论上是可能的。
 
-Ithkuil represents the culmination of my attempts over a period of thirty years or so to achieve the above goals. It should be noted that Ithkuil is NOT intended to function like a “natural” human language. Ithkuil exists as an exercise in exploring how human languages \_**could **function, not how human languages **do **\_function.
+Ithkuil represents the culmination of my attempts over a period of thirty years or so to achieve the above goals. It should be noted that Ithkuil is NOT intended to function like a “natural” human language. Ithkuil exists as an exercise in exploring how human languages **could **function, not how human languages **do **function.
 
 ## 本门语言的运作方式
 
@@ -36,15 +36,17 @@ Ithkuil之所以能够以简明的方式表达广阔的认知细节，是因为�
 
 读者可能很好奇为什么就两个词的Ithkuil句子翻译出来会那么长。有人也许会猜测这个句子在「作弊」，那两个词只不过是本身就带有复杂而特定的意义。虽然的确， 第一个词**tram-mļöi**是翻译成「**恰恰相反，可能原来在某一刻……**」，第二个词**hhâsmařpţuktôx**，意思是「**我觉得这种崎岖山脉会消隐。**」但就此下结论说它们是独立的，理论上能在一本Ithkuil的字典里找到的词，那就错了。实际上，句中代表所谓“词根”的部分只有**-âsm-**，这个词干的大概意思是「山丘/高地」。句子其余部分都由形态成份（即前缀/中缀/後缀/元音变换/重音/变调等），而非词汇成份组成。如第一个词**tram-mļöi**, 有三个部分：
 
+|  | 部分 | 意味 |
+| :--- | :---: | :--- |
 | 1. | **tr\(a\)-** | 言准词缀，表示对某个声称的反驳， 可翻译为**「相反……」** |
-| :--- | :--- | :--- |
 | 2. | **m-mļ-** | 时体&语式中缀，传达时体信息**「原来（发现）……」**以及虚拟语气**「（它）可能（是）……」** |
 | 3. | **-öi** | 时体后缀， 可翻译为**「在某一刻」** |
 
 第二个词，**hhâsmařpţuktôx**，形态分析如下：
 
-| 1. | **hh**- | 言据词缀，表示说话者基于直觉的结论， 可翻译为**「我觉得……」** |
-| :--- | :--- | :--- |
+|  | 部分 | 意味 |
+| :--- | :---: | :--- |
+| 1. | **hh-** | 言据词缀，表示说话者基于直觉的结论， 可翻译为**「我觉得……」** |
 | 2. | **-âsm\(a\)-** | 词干，「山丘/高地」，派生自词根-**sm**-「地形」水平 |
 | 3. | -**řpţ**- | 基本词缀，表示\(1\) 词干被重新诠释为由外观互不相同而又彼此相连的成员组成的一个组合实体（即**「山丘」**变成**「起伏不平的一串山丘」**），\(2\)该实体表现出逐渐消失状态（即，「逐渐减弱」或「慢慢消失」） |
 | 4. | -**ukt**- | 限定後缀，**「正在说的这个」**=「这个」 |
