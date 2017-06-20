@@ -78,3 +78,90 @@ Ithkuil认识到几乎任何概念都存在这种互补性，因为事实上，�
 
 The above paragraphs illustrate how Ithkuil is able to capture and systematically present at the morphological level what other languages accomplish haphazardly at the lexical level. By systematically finding and structuring the covert dependencies and interrelationships between what are disparate words in other languages, the hundreds of thousands of words in a language like English are drastically reduced down to the approximately 3600 word-roots of Ithkuil. This is morpho-lexical efficiency on a grand scale. Nevertheless, by means of the matrix-like morphological scheme previously described, each of these roots can in turn generate thousands of permutations to convey complex and subtle semantic distinctions and operations which dwarf the capacity of existing languages to convey without resorting to cumbersome paraphrase. This is lexico-semantic and morpho-semantic efficiency on an equally grand scale. Such a synergistic design for grammar lends a dynamism that allows the Ithkuil language to describe reality to a minute level of detail and exactitude despite a limited number of word-roots. This dynamism is visible throughout this work, but is discussed in systematic detail in [Chapter 10: Lexico-Semantics](10_lexico-semantics.html).
 
+## 解决自然语言中固有的模糊性
+
+为进一步说明Ithkuil运作的认知深度，思考下自然语言最常见的特点之一：语义模糊。例如以下句子：
+
+> \(a\) **男孩滚下坡。**
+>
+> \(b\) **可能她刚开始戒烟。** 
+>
+> \(c\) **Joe昨天没中彩票。 **
+>
+> \(d\) **有只狗在我门廊上。**
+
+大多数人会否认这四句话存在任何模糊性。这是因为模糊性並不存在于字词的表面意义，毋宁说，模糊性潜藏在语法（或句法）关系及认知意图的接近潜意识的层面。例如，句\(a\)里我们不确定男孩是自己选择滚下坡还是不情愿地被推下去的（用正规语言学术语来说就是，主语「男孩」的语义角色未确定是**施事者**还是**受事者**）然而了解哪个才是正确情景，对理解说话者描述该事件的意图至关重要。
+
+假设句\(b\)是回答提问「**她怎么看起来那么暴躁？**」，那么我们不确定她是否原来是个抽烟的人；即说话者是因为知道她是抽烟的人而提出这个可能性，还是纯属猜测，对她抽不抽烟並没有任何了解？
+
+句\(c\)则表现出四项歧义。Joe没中彩票有可能是因为：说话者知道Joe没买彩票；知道Joe买了但没中；说话者不知道Joe有没有买彩票，只是猜测；或是基于某个间接线索（比如，既然Joe今天来上班了，他应该没中彩票）的推论。
+
+句\(d\)表面看上去最直白。然而，说话者是纯粹描述和指明一个场景的参与者，还是想表达这场景对她有某种个人重要性，比如她有恐狗症，又或是在等她失踪很久的宠物狗回家？换言之，句子本身不表达话语背後的意图，仅仅是对场景的静态描述。
+
+四个例子里，除非及直到听者能从其他句子的周边语境中确定信息，模糊性都存在。这说明，尽管事实上四个句子语法上都没问题，字词本身都没有歧义，但它们的语法不足以表达对完全理解话语意图所必需的认知信息。这个对固有地传达必要信息的语法缺陷，是人类语言的一个普遍的功能性陷阱，也是Ithkuil的语法被设计用于避免的。Ithkuil里，以上四个句子会在语法层面强制性地要求传达所有上面提到的「缺失」信息，而无需额外的词。The grammatical elements of the words themselves \(word-selection, declensions, conjugations, prefixes, suffixes, etc.\) would convey all the elements mentioned.
+
+Similar examples can be given to show the extent to which natural languages such as English must often resort to idiomatic expressions, metaphor, paraphrase, circumlocution and “supra-segmental” phenomena \(e.g., changing the pitch of one’s voice\) in their attempts to convey a speaker’s intended meaning. Ithkuil grammar has been designed to overtly and unambiguously reflect the intention of a speaker with a minimum of such phenomena.
+
+## 与其他人造语言比较
+
+熟悉[人工语言构造](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E8%AA%9E%E8%A8%80)史的读者们也许会认为这一努力已经过时或没必要，因为已经存在比如像 James Cooke Brown 发明的著名的 Loglan（或其流行洐生物 Lojban）这样的逻辑语言了。这正好可以用来说明Ithkuil跟这些前人的尝试的区别在哪里。Loglan发表于1950年代，作为一门用来说和写的语言，是基于符号逻辑（正式名称为“一阶谓词演算”），数学家们和逻辑学家们设计的一套符号处理算法系统。结果，人们也许认为这样的一种语言是实现合逻辑、无歧义的语言交流的最有力的工具。然而，Loglan及其洐生物只不过是用于符号处理，即语言的形态和句法层次上的一套复杂精密的工具而已；对语义领域进行重组並不在这些语言的作用范围内。换言之，符号逻辑只处理输入到系统中的参数，它们並不分析这些参数在意义方面的来源，也不具备去对人类心智的认知或语义领域的结构就意义本身是怎样被分配到参数而言去作分析並形式化的能力（确实，Lojban构建词根是通过对六门最多人说的自然语言中的高频字根进行统计学「取样」，这一做法无形中把上述所有词汇语义上的低效率延续至其词汇）。由于不考虑这些语言成份的问题，Loglan及类似的努力都未能解决语言在词汇语义方面固有的不一致及低效率。
+
+其他读者也许认为像 Esperanto，Interlingua，Ido 等「国际辅助语」是逻辑而有效率的语言代表。然而这些语言只是在现有语言（往往是印欧语系）的基础上简化、规律化的融合物，被设计用于容易学习而已。它们虽然解决了语言在形态语音及形态句法方面的很多明显的不规则、不一致、冗长，但对解决其他语言成份，尤其是词汇语义里的问题所做甚少。例如，虽然Esperanto难能可贵地採用了系统的规则来派生词汇，像_**knabo**_「男孩」 -- _**knabino**_「女孩」，但它大体上保留了印欧语言的基本的词汇语义范畴体系，而没有寻找机会把这种词汇派生体系扩展到更多的多维阵列。
+
+总之，无论是Loglan这样的逻辑语言，还是Esperanto这样的国际辅助语，都不是专门为实现语言交流的认知上的准确和简明而设计，而这正是Ithkuil的目标。实际上，也许Ithkuil更乐意与伦敦皇家协会的[John Wilkins 发表于1668年的分析语言](http://www.alamut.com/subj/artiface/language/johnWilkins.html)作比较。在这门语言里，他把人类概念的领域划分成40个类别，每个类别又包含子类别及子子类别，这些类别又都系统地表现在每个词的语音结构。Wilkins 的这门语言的底层原理虽然就细节而言不可行，但在採用了简单主义的方式这点上与Ithkuil的词汇形态及词汇语义学里採用的一些抽象的派生原理相似。另一个在简单主义方面可以作比较的先行者是 Jean François Sudre 发明並发表于1866年的音乐语言 Solresol。
+
+## 本门语言的发展简史
+
+Ithkuil的设计进化之路缓慢而艰难。从我还是个少年的早期尝试开始（从认识萨丕尔-沃尔夫假说和查尔斯·费尔默发表于1968年的关于格语法的影响深远的文章後）去探索，越过印欧语言的疆界，去到一个各种语法概念彼此交织的错综复杂的阵列。其中很多概念完全是我自己的发明，其余的是受一些名不见经传的语言来源启发，如阿伯卡茨语的复合动词的形态语音学、某些美洲印第安语言中动词的语气、尼日尔-科尔多凡语的时体系统、巴斯克语和达吉斯坦语的名词格系统、瓦卡什语的附着词系统、泽套语和古古·伊米德希尔语的方位表示系统、闪语系的三字母词根形态学，以及Suzette Elgin的拉丹语（Láadan）的传闻和属格范畴；更别提那些从无数个小时研究关于理论语言学、认知语法学、心理语言学、语言习得论、语言相对论、语义学、符号学、哲学、模糊集合理论，甚至量子物理学的文字所得出的灵感。美国认知语言学家 George Lakoff、Ronald Langacker、Gilles Fauconnier 及 Len Talmy 的著作对Ithkuil设计的影响尤为显著。
+
+Ithkuil的书写系统也是既有原创也有受启发成份：它採用我自己发明的一种独特的“词素-音素”原理，逻辑设计借自埃塞俄比亚文字和婆罗米文字底层的变化原理，美学设计仿似希伯来的方格文字及各种克林贡（Klingon）字体。
+
+Ithkuil的最初版本在2004年初发表在互联网。第二个版本或替用版本叫Ilaksh，发表于2007年中，是特别为了响应许多为本门语言设计一个语音系统较简单的版本的请求。在从原初版本的Ithkuil到Ilaksh的修改过程中，我发觉Ilaksh的设计有很多方面可以合併回Ithkuil里面，而没有Ilaksh对音素数量的限制。这将（希望）会使本门语言听起来更顺耳，同时又保持它形态语音上的简明。此外，後见之明也使我重新思考少数几个语法点，而这个最新设计使我能把它们合併进本门语言。
+
+引进于2011年7月，本门语言的第三次化身反映了这些想法，如今成为我认为是本门语言的决定性或「官方」版本。考虑到方便以及与原初版本的延续性，保留了「Ithkuil」一名。这是**iţkuîl**一词的简便形式，在原初版本里，这个词的意思大概是【一门假想的语言】。
+
+## 关于语法结构
+
+This website provides a systematic presentation of the grammar of the language. In addition to a description of the various components of the grammar, the reader will find example phrases or sentences illustrating those components. The navigational links at the top and bottom of this page lead to chapters on the major grammatical components of the language and should be preferably read in sequence, as each chapter is cumulative and assumes knowledge of the preceding. While this grammar assumes only a basic knowledge of linguistic concepts, it will be helpful to briefly familiarize the reader with the hierarchical/schematic structure of human language in general, as the organization of this grammar is somewhat based around this structure. The analysis of human language can be organized into the following hierarchical schema of primary concepts:
+
+> * **Phonology**: The manner in which vocally articulated sound is structured for use within a language; this is the basic realm of the acoustic sounds produced by the lungs, vocal cords, tongue, and lips, i.e., consonants, vowels, volume, pitch, tone, stress, etc.
+>
+> * **Morphology**: The grammatical rules, structures, categories and functions which can be manipulated to form words and the component phrases of sentences; this is the realm of prefixes, suffixes, word-roots, and conceptual categories like tense, singular vs. plural, moods, active vs. passive voice, etc.
+>
+> * **Syntax**: The rules governing how words and phrases can be combined into grammatically acceptable sentences.
+>
+> * **Semantics**: The realm of meaning; what the words, phrases, and syntactical structures of the language represent in terms of meaning.
+>
+> * **Lexicon**: The list of word-roots within a language, i.e., the vocabulary of the language.
+>
+> * **Pragmatics and Discourse Rules**: The analysis of how language is actually used in real-world situations as determined by cultural and context-driven rules; the realm of style, rhetoric, formal versus informal language, slang, etc., outside the realm of grammar. Because this is a formal grammar for a hypothetical language \(i.e., it has no “real world” linguistic context\), pragmatics and discourse rules will not be covered.
+
+The above components of language in turn operate in an interrelated fashion, combining to designate several additional or secondary levels of analysis. For example:
+
+* **Morpho-phonology**: The interrelationship between phonology and morphology, i.e., the manner in which the sounds of the language are manipulated into structures that can contain meaning. For example it is morpho-phonology that explains why different word-endings signify concepts such as masculine or feminine in Spanish.
+
+* **Morpho-syntax**: The interrelationship between morphology and syntax, i.e., how the grammatical structures within words impact the overall structure of a sentence, as illustrated by the relationship between the sentences _**It is undeliverable** _versus _**It cannot be delivered**_
+
+* **Lexico-Morphology**: The interrelationship between morphology and the lexicon, i.e., the structure of word-roots and how they interact with other morphological categories, as illustrated by the concept of “irregular” verbs, e.g., ‘go’ + PAST = ‘went.’
+
+* **Lexico-Semantics**: The interrelationship between the lexicon and semantics, i.e. between words and their meaning; what mental concepts are selected by a language to be instantiated as word-roots and the cognitive processes behind the selection criteria.
+
+The interrelationships between these components can be illustrated by the following diagram.
+
+![](/assets/Intro_1.gif)  
+Each example comprises an Ithkuil word, phrase, or sentence written in native Ithkuil script, accompanied by a Romanized transliteration, an English translation \(sometimes divided into a “natural” versus literal translation\), and a morphological analysis. The morphological analysis is presented serially, morpheme-by-morpheme, using three-letter abbreviations or labels for Ithkuil morphological categories. These labels are presented within the body of the work in conjunction with the explanation of each morphological category. A [list of these abbreviations](abbreviations.html) is also available on the main navigational menu at the top and bottom of each page of the site.
+
+This work is not meant as a primer or means of self-instruction in speaking the language, a task beyond even its creator, given that Ithkuil may be perhaps the most grammatically complex language ever devised. Simplicity was not my purpose, but rather bridging the gap between extreme morphological dynamism, the overt reflection of human cognitive processes via language, and extreme morpho-semantic economy and efficiency. I believe I have achieved a result which is close to the ideal I sought. I leave it to the reader to explore that result.
+
+My work on Ithkuil is dedicated to my brother Paul, in fond remembrance of _**Kccoj**_, _**Mbozo**_, and all the fun times we had growing up playing with language and linguistics. _**Aniamtrexu tanskbitero**!_
+
+And I dedicate this new 2011 version of the language to Ms. Alla Vishneva, **who teaches students about Ithkuil in Kyiv, Ukraine, and to whom my work is as important as it is to me. **_**Дякую, Алла. Ти маєш рацію!**_
+
+                                                                              —_John Quijada_  
+                                                                             July, 2011
+
+  
+
+
+
+
