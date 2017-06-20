@@ -3,11 +3,9 @@
 ## Overview
 
 * [引言](README.md)
-* [音位学](yin-wei-xue.md)
+* [第一章 音位学](01_phonology.md)
 
 ## Methods
 
 * [Defining Methods](methods.md)
-
-
 
