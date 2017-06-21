@@ -7,7 +7,7 @@
 
 3. 这两个目标貌似要求设计出的语言必须很冗赘，既然它的每个单词（或整个句子）必须传达比在自然语言中更多的形态语义内容。话虽如此，既实现这两个目标，同时也实现相对简明的形态语音词形，即把较多的意义和信息塞进相对较少的音节里，理论上是可能的。
 
-Ithkuil represents the culmination of my attempts over a period of thirty years or so to achieve the above goals. It should be noted that Ithkuil is NOT intended to function like a “natural” human language. Ithkuil exists as an exercise in exploring how human languages **could **function, not how human languages **do **function.
+Ithkuil represents the culmination of my attempts over a period of thirty years or so to achieve the above goals. It should be noted that Ithkuil is NOT intended to function like a “natural” human language. Ithkuil exists as an exercise in exploring how human languages **could** function, not how human languages **do** function.
 
 ## 本门语言的运作方式 {#Sec0o1}
 
@@ -38,9 +38,9 @@ Ithkuil 之所以能够以简明的方式表达广阔的认知细节，是因为
 
 |      |      部分      | 意味                                       |
 | :--- | :----------: | :--------------------------------------- |
-| 1.   | **tr\(a\)-** | 言准词缀，表示对某个声称的反驳， 可翻译为**「相反……」**          |
+| 1.   | **tr\(a\)-** | 言准词缀，表示对某个声称的反驳， 可翻译为 **「相反……」**         |
 | 2.   |  **m-mļ-**   | 时体&语式中缀，传达时体信息 **「原来（发现）……」** 以及虚拟语气 **「（它）可能（是）……」** |
-| 3.   |   **-öi**    | 时体后缀， 可翻译为**「在某一刻」**                     |
+| 3.   |   **-öi**    | 时体后缀， 可翻译为 **「在某一刻」**                    |
 
 第二个词，**hhâsmařpţuktôx**，形态分析如下：
 
@@ -60,7 +60,7 @@ Ithkuil 之所以能够以简明的方式表达广阔的认知细节，是因为
 
 Ithkuil 里，核心的底层概念被词汇化到词根，然後词根经历一系列有规律、可预测、普遍通用的形态（即，语法）变化，生成不同词汇。这些词有时候与自然语言里的系列词相当，但大多情况下远超後者的潜力范围。
 
-在Ithkuil中形成词汇的另一个原则是**【互补原理】**。在对世界及世界内的实体之间的关联进行概念化的方式上，西方的思想和语言普遍反映亚里士多德的逻辑。Ithkuil 则相反，认为世界是基于互补的原理，即彼此有关的实体之间並非分离独立，而是单个整体实体的若干互补方面。Such complementarity is in turn reflected in the derivation of word-roots. 换言之，一个概念在具体语境中只能显化为一类或另一类实体，但不可能同时出现； 然而，没有另一个的存在，哪个显化都不能被视为独立的整体。一个简单的类比说明是抛硬币：硬币只能有一面着地。然而不管哪面着地哪面朝上，缺少任何一面，则根本不存在硬币，也就无硬币可抛。
+在Ithkuil中形成词汇的另一个原则是 **【互补原理】** 。在对世界及世界内的实体之间的关联进行概念化的方式上，西方的思想和语言普遍反映亚里士多德的逻辑。Ithkuil 则相反，认为世界是基于互补的原理，即彼此有关的实体之间並非分离独立，而是单个整体实体的若干互补方面。Such complementarity is in turn reflected in the derivation of word-roots. 换言之，一个概念在具体语境中只能显化为一类或另一类实体，但不可能同时出现； 然而，没有另一个的存在，哪个显化都不能被视为独立的整体。一个简单的类比说明是抛硬币：硬币只能有一面着地。然而不管哪面着地哪面朝上，缺少任何一面，则根本不存在硬币，也就无硬币可抛。
 
 比如「**男、夜、肢、坐**和**发生**」等词，一般语言里都是独立的词根，被视为基本心理概念或原始语义。然而 Ithkuil 不认为它们是原始语义，而是更大的语义概念的一部分，以与另一部分的互补关系而存在，两者共构成整体。
 

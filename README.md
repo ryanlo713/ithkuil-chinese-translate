@@ -8,7 +8,7 @@ Ithkuil 文档翻译、建设中。
 
 ## 协议
 
-基于原作者 John Quijada 在其官网的指示，全部多媒体在[在创作共用 姓名标示 - 非商业性使用 - 相同方式分享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)之條款下提供。
+基于原作者 John Quijada 在其官网的指示，全部多媒体在[创作共用 姓名标示 - 非商业性使用 - 相同方式分享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)之條款下提供。
 
 引用：
 

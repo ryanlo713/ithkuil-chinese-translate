@@ -51,15 +51,21 @@ Ithkuil 形态音位学主要于黏着，次要于综合。也就是说，形态
 <img src="assets/2-1-1a.jpg" width="43" height="29">
 **pʰal** 「一棵树」 <audio src="sound_files/2-1-1a.mp3" controls="controls" preload="auto">Your browser does not support the audio tag. 您的浏览器不支持 Audio 标签。</audio>
 
-> Vr = (**a-**)[^*],  词根的 模式 1, 词干 1 + `静态` 功能
-> Cr = -**pʰ-**, 词根：【木本植物】
-> Vc = -**a-**,  `内容` 格
-> Ca = -**l**, `正常` 本质, `全限域` 限域, `个例界` 视界, `单` 构型, 和 `自然属` 系属
-> 声调 = 降, `进程版` 版本
-> 重音 = 倒数第二[^**], `非正式` 指派 和 `非框架` 框架关系
+> Vr = (**a-**)[^\*],  词根的 模式 1, 词干 1 + `静态` 功能
 >
-> [^*]: 注意，完整形式是 **apʰal**, 但当 **Vr** 的值为词首 **a**- 时，对于带倒数第二音节重音的构成词，首 **a**- 可删除。
-> [^**]: 如 [第 1.3.3 节](01_phonology.md#Sec1o3o3) 所述，单音节词被认为具有形态音位宗旨的倒数第二个音节重音。
+> Cr = -**pʰ-**, 词根：【木本植物】
+>
+> Vc = -**a-**,  `内容` 格
+>
+> Ca = -**l**, `正常` 本质, `全限域` 限域, `个例界` 视界, `单` 构型, 和 `自然属` 系属
+>
+> 声调 = 降, `进程版` 版本
+>
+> 重音 = 倒数第二[^\**], `非正式` 指派 和 `非框架` 框架关系
+>
+> [^\*]: 注意，完整形式是 **apʰal**, 但当 **Vr** 的值为词首 **a**- 时，对于带倒数第二音节重音的构成词，首 **a**- 可删除。
+>
+> [^\**]: 如 [第 1.3.3 节](01_phonology.md#Sec1o3o3) 所述，单音节词被认为具有形态音位宗旨的倒数第二个音节重音。
 
 
 
@@ -68,10 +74,15 @@ Ithkuil 形态音位学主要于黏着，次要于综合。也就是说，形态
 **eqoec** 「关于人性」 <audio src="sound_files/2-1-1b.mp3" controls="controls" preload="auto">Your browser does not support the audio tag. 您的浏览器不支持 Audio 标签。</audio>
 
 > Vr = **e-**,  词根的模式 1, 词干 2 + `静态` 功能
+>
 > Cr = -**q-**, 词根：【高等生物】
+>
 > Vc = -**oe-**,  `关于` 格
+>
 > Ca = -**c**, `正常` 本质, `全限域` 限域, `无形界` 视界, `单` 构型, 和 `自然属` 系属
+>
 > 声调 = 降, `进程版` 版本
+>
 > 重音 = 倒数第二, `非正式` 指派 和 `非框架` 框架关系
 
 
@@ -81,75 +92,113 @@ Ithkuil 形态音位学主要于黏着，次要于综合。也就是说，形态
 **‾üaklaršlá** 「（它）是一组想像的乾涸的人工河道」 <audio src="sound_files/2-1-1c.mp3" controls="controls" preload="auto">Your browser does not support the audio tag. 您的浏览器不支持 Audio 标签。</audio>
 
 > Vr = **üa-**,  词根的模式 3, 词干 1 + `表态` 功能
+>
 > Cr = -**kl-**, 词根：【流动水】
+>
 > Vc = -**a-**,  `内容` 格
+>
 > Ca = -**ršl(a)**, `假想` 本质, `渐消域` 限域, `个例界` 视界, `群` 构型, 和 `一致属` 系属
+>
 > 声调 = 高, `完成版` 版本
+>
 > 重音 = 最终, `正式` 指派 和 `非框架` 框架关系
 
 
 
 离开上述较简单的构成词结构，我们可检查越来越复杂的单词，例如：
 
-<p align="center">**Vr + Cr + Vc + Ci +Vi + Ca + Vx+Cs + Vf + ’Cb + 声调 + 重音** ，比方说：</p>
+<p align="center"><strong>Vr + Cr + Vc + Ci +Vi + Ca + Vx+Cs + Vf + ’Cb + 声调 + 重音</strong> ，比方说：</p>
 
 <img src="assets/2-1-1d.jpg">
 
 **Uipʰawâtļûxe’ň?** 「可能碰巧是个『大树林』吗？」 <audio src="sound_files/2-1-1d.mp3" controls="controls" preload="auto">Your browser does not support the audio tag. 您的浏览器不支持 Audio 标签。</audio>
 
 > Vr = (**ui-**),  词根的模式 1, 词干 1 + `表态` 功能
+>
 > Cr = -**pʰ-**, 词根：【木本植物】
+>
 > Vc = -**a-**,  `内容` 格
+>
 > Ci+Vi = **w**+**â**, `提问句式` 语为 + `虚拟式` 语式
+>
 > Ca = -**tļ**, `正常` 本质, `全限域` 限域, `个例界` 视界, `队` 构型, 和 `自然属` 系属
+>
 > Vx+Cs = **û**+**x**, `尺寸` 后缀，程度 6, 翻译为 【大】
+>
 > Vf = **e**, `寓意` 语境
+>
 > Cb = **ň**, `偶运观` 观感
+>
 > 声调 = 降, `进程版` 版本
+>
 > 重音 = 倒数第二, `非正式` 指派 和 `非框架` 框架关系
 
 
 
-<p align="center">或者， **Cg + Vr + Cx + Vp + Cr + Vc + Ca + Vx+Cs + Vf **+ **声调 **+ **重音** ，比方说：</p>
+<p align="center">或者， <strong>Cg + Vr + Cx + Vp + Cr + Vc + Ca + Vx+Cs + Vf + 声调 + 重音</strong> ，比方说：</p>
 
 <img src="assets/2-1-1e.jpg">
 
 **hremsoqaiţsurkoi** 「据说是借助于人类所有各种不同特性所产生的价值」 <audio src="sound_files/2-1-1e.mp3" controls="controls" preload="auto">Your browser does not support the audio tag. 您的浏览器不支持 Audio 标签。</audio>
 
 > Cg = **hr**-, `报告据` 言据
+>
 > Vr = **e**-,  词根的模式 1, 词干 2 + `静态` 功能
+>
 > Cx = -**ms**-, 併入词根：【值/价】
+>
 > Vp = **o**, 模式 2, 词干 1, 和 併入词根的`非正式` 指派
+>
 > Cr = -**q**-, 主词根: 【高等生物】
+>
 > Vc = -**ai**-,  `工具` 格
+>
 > Ca = -**ţs**-, `正常` 本质, `全限域` 限域, `无形界` 视界, `组合` 构型, 和 `分化属` 系属
-> Vx+Cs = **u**+**rk(qt?)**, `转喻类型` 后缀，程度 9, 构成词的 「特性代拥有者」
+>
+> Vx+Cs = **u**+**rk**, `转喻类型` 后缀，程度 9, 构成词的 「特性代拥有者」
+>
 > Vf = **oi**, `融合` 语境 和 `效果` 格式
+>
 > 声调 = 降, `进程版` 版本
+>
 > 重音 = 倒数第二, `非正式` 指派 和 `非框架` 框架关系
 
 
 
-<p align="center">或一个刻意极端的例子， **Cv + Vʟ + Cs + Vr + Cx + Vp + Cr + Vc + Ca + Vx + Cs + Vf + ’Cb + 声调 + 重音** ，如：</p>
+<p align="center">或一个刻意极端的例子， <strong>Cv + Vʟ + Cs + Vr + Cx + Vp + Cr + Vc + Ca + Vx + Cs + Vf + ’Cb + 声调 + 重音</strong> ，如：</p>
 
 <img src="assets/2-1-1f.jpg" width="124" height="40"> 
 <img src="assets/Clown6.jpg" width="70" height="88" align="absmiddle">
 **/qʰûl-lyai’svukšei’arpîptó’ks** 「...being hard to believe, after allegedly trying to go back to repeatedly inspiring fear using rag-tag groups of suspicious-looking clowns, despite resistance」 <audio src="sound_files/2-1-1f.mp3" controls="controls" preload="auto">Your browser does not support the audio tag. 您的浏览器不支持 Audio 标签。</audio>
-> Cv =  **q<sup>h</sup>**, indicating `ALLEGATIVE` sanction plus `REPETITIVE` phase
+
+> Cv =  **qʰ**, indicating `ALLEGATIVE` sanction plus `REPETITIVE` phase
+>
 > Vʟ  =  **û**, indicating `RESISTIVE` valence
+>
 > Cs  =  **l-ly**, indicating `REGRESSIVE` aspect
+>
 > Vr  =  **ai’**, indicating `DYNAMIC` 功能 plus Pattern 1, Stem 2 for 主词根
+>
 > Cx  =  **sv**, indicating the 併入词根:  ‘fear’
+>
 > Vp  =  **u**, indicating `INFORMAL` designation plus Pattern 3, Stem 1 for the 併入词根
+>
 > Cr  =  **kš**, indicating 主词根: ‘fool/clown’
+>
 > Vc  =  **ei’a**, indicating `POSTCURSIVE` case
+>
 > Ca  =  **rp**, indicating `正常` 本质, `全限域` 限域, `UNBOUNDED` 视界, `AGGREGATIVE` 构型, and `VARIATIVE` 系属
+>
 > Vx + Cs  = **îpt**-, the `GENUINENESS/VERACITY` suffix in 4th degree, indicating a suspicious-looking nature
+>
 > Vf  =  **o**, indicating `SCHEMATIC` format and `EXISTENTIAL` context
+>
 > Cb =  **’ks**, indicating `SKEPTICAL` 观感
+>
 > 声调  =  rising, indicating `INEFFECTUAL` version
+>
 > 重音  =  ultimate, indicating `FORMAL` designation for 主词根
 
 ### 2.1.2 Disambiguation of Specific Affixes Within Words
 
-Because many of the terms in the above morphological formula are optional, the reader might easily wonder how a speaker/reader of Ithkuil, when looking at or hearing an Ithkuil word, can possibly know which terms are actually shown in any given word, i.e., how to interpret from the given consonants and vowels in a particular word which of the optional morphological categories is being displayed or spoken. Or, in other words, how can one tell which slots are filled? In fact, such interpretation is indeed possible and is unambiguous due to the specific allowable consonant or vowel combinations allowed for each term, i.e., the specific consonantal or vocalic values allowed for one term are distinct from those allowed for another term which might occupy the same sequential position in a specific word. Also, as previously stated in [Section 2.1.1](02_morpho-phonology.md#Sec2o1o1) above and as indicated by the pattern of parentheses in the **(((Cv +) Vʟ +) Cg/Cs +) Vr + (Cx/Cv + Vp/Vʟ +) Cr + Vc (+ Ci +Vi) + Ca (+ VxC ) (+ Vf (+ Cb)) \[+ tone\]\[+ stress\] ** morphological formula, the presence of certain terms e.g., **Vʟ**, requires the presence of other terms (**Ci + Vc**), in order to maintain a discernible sequence which can be unambiguously differentiated.
+Because many of the terms in the above morphological formula are optional, the reader might easily wonder how a speaker/reader of Ithkuil, when looking at or hearing an Ithkuil word, can possibly know which terms are actually shown in any given word, i.e., how to interpret from the given consonants and vowels in a particular word which of the optional morphological categories is being displayed or spoken. Or, in other words, how can one tell which slots are filled? In fact, such interpretation is indeed possible and is unambiguous due to the specific allowable consonant or vowel combinations allowed for each term, i.e., the specific consonantal or vocalic values allowed for one term are distinct from those allowed for another term which might occupy the same sequential position in a specific word. Also, as previously stated in [Section 2.1.1](02_morpho-phonology.md#Sec2o1o1) above and as indicated by the pattern of parentheses in the **(((Cv +) Vʟ +) Cg/Cs +) Vr + (Cx/Cv + Vp/Vʟ +) Cr + Vc (+ Ci +Vi) + Ca (+ VxC ) (+ Vf (+ Cb)) \[+ tone\]\[+ stress\]** morphological formula, the presence of certain terms e.g., **Vʟ**, requires the presence of other terms (**Ci + Vc**), in order to maintain a discernible sequence which can be unambiguously differentiated.
