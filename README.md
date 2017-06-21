@@ -1,6 +1,6 @@
-# Defining Methods
+# README
 
-Methods allow you to smoothly display code examples in different languages.
+Ithink文档翻译、建设中
 
 {% method %}
 ## My first method
