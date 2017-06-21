@@ -1,30 +1,15 @@
 # README
 
-Ithink文档翻译、建设中
+Ithkuil 文档翻译、建设中。
 
-{% method %}
-## My first method
+部分翻译来源 [Ithkuil 吧](https://tieba.baidu.com/f?kw=ithkuil)
 
-My first method exposes how to print a message in JavaScript and Go.
+术语参考：[Wikipedia](https://www.wikipedia.org)
 
-{% sample lang="js" %}
-Here is how to print a message to `stdout` using JavaScript.
+## 协议
 
-```js
-console.log('My first method');
-```
+基于原作者 John Quijada 在其官网的指示，全部多媒体在[在创作共用 姓名标示 - 非商业性使用 - 相同方式分享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)之條款下提供。
 
-{% sample lang="go" %}
-Here is how to print a message to `stdout` using Go.
+引用：
 
-```go
-fmt.Println("My first method")
-```
-
-{% common %}
-Whatever language you are using, the result will be the same.
-
-```bash
-$ My first method
-```
-{% endmethod %}
+> ©2004-2011 by John Quijada. You may copy or excerpt any portion of the contents of this website for private, individual, or personal use which is non-commercial in nature and not for purposes of profit. Otherwise, you may copy or excerpt brief portions of the contents of this website in published, web-accessible, or commercially distributed articles, papers or webpages for purposes of review, commentary or analysis, provided you give full attribution to the author and this website.
