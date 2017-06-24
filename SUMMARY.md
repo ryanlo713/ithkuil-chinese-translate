@@ -18,8 +18,8 @@
   * [1.4 语音组合法](/01_phonology.md#Sec1o4)
 * [第 2 章 形态音位学](02_morpho-phonology.md)
   * [2.1 语法分类](02_morpho-phonology.md#Sec2o1)
-  * [2.2 词根与词干构成](02_morpho-phonology.html#Sec2o2)
-  * [2.3 词干的语义例示](02_morpho-phonology.html#Sec2o3)
-  * [2.4 词类](02_morpho-phonology.html#Sec2o4)
-  * [2.5 注意术语](02_morpho-phonology.html#Sec2o5)
+  * [2.2 词根与词干构成](02_morpho-phonology.md#Sec2o2)
+  * [2.3 词干的语义例示](02_morpho-phonology.md#Sec2o3)
+  * [2.4 词类](02_morpho-phonology.md#Sec2o4)
+  * [2.5 注意术语](02_morpho-phonology.md#Sec2o5)
 
